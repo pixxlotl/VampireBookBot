@@ -14,5 +14,6 @@ public class Main {
                .disableCache(CacheFlag.VOICE_STATE)
                .setActivity(Activity.playing("Java Bot"))
                .build();
+     jda.addEventListener(new MessageListener());
     }
 }
