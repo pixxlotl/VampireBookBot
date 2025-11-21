@@ -3,3 +3,8 @@
     <artifactId>JDA</artifactId>
     <version>5.0.0-beta.6</version>
 </dependency>
+<dependency>
+    <groupId>io.github.cdimascio</groupId>
+    <artifactId>dotenv-java</artifactId>
+    <version>2.2.0</version>
+</dependency>
